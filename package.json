@@ -1,0 +1,29 @@
+{
+  "name": "vue-cordova-secure-storage",
+  "license": "Apache-2.0",
+  "author": "partimer",
+  "description": "VueJS plugin wrapper for cordova-plugin-secure-storage",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/partimer/vue-cordova-secure-storage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/partimer/vue-cordova-secure-storage.git/issues"
+  },
+  "homepage": "https://github.com/partimer/vue-cordova-secure-storage.git#readme",
+  "keywords": [
+    "storage",
+    "secure",
+    "cordova",
+    "node",
+    "vue",
+    "vuejs"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+    "vue": "^2.5.17",
+    "lodash": "^4.17.11"
+  }
+}
